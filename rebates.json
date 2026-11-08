@@ -1,0 +1,11 @@
+[
+{
+"brand":"Example Brand",
+"promotion":"Example Rebate",
+"stackable":"Not Specified",
+"purchaseDates":"Add from PDF",
+"claimDeadline":"Add from PDF",
+"products":["SKU123"],
+"terms":"Terms from rebate PDF will be entered here."
+}
+]
