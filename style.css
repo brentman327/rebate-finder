@@ -1,0 +1,21 @@
+body {
+font-family: Arial, sans-serif;
+margin: 20px;
+background:#f5f5f5;
+}
+h1 {color:#b00000;}
+input {
+width:100%;
+max-width:500px;
+padding:12px;
+font-size:18px;
+}
+.card {
+background:white;
+padding:20px;
+margin-top:15px;
+border-radius:8px;
+box-shadow:0 2px 5px #ccc;
+}
+.yes {color:green;font-weight:bold;}
+.no {color:red;font-weight:bold;}
