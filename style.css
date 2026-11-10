@@ -17,5 +17,13 @@ margin-top:15px;
 border-radius:8px;
 box-shadow:0 2px 5px #ccc;
 }
-.yes {color:green;font-weight:bold;}
-.no {color:red;font-weight:bold;}
+button {
+padding:10px 15px;
+font-size:16px;
+cursor:pointer;
+}
+@media print {
+button, input {display:none;}
+body {background:white;}
+.card {box-shadow:none;}
+}
